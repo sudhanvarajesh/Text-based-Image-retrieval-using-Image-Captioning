@@ -64,7 +64,7 @@ Ensure you have the following installed:
 - **Upload images** via the web interface and retrieve related images based on captions.  
 
 ## **Demo**  
-🔗 **Video Demo:** *(https://drive.google.com/file/d/1ocgiXuJMIZt5jnyTM-gKvQha7tGb9Q9i/view?usp=drive_link)*  
+🔗 **[Video Demo](https://drive.google.com/file/d/1ocgiXuJMIZt5jnyTM-gKvQha7tGb9Q9i/view?usp=drive_link)** 
 
 ## **Results**  
 📌 **Captioning Accuracy:** Achieved **0.663 cosine similarity** on the Flickr8k validation set.  
